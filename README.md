@@ -21,7 +21,6 @@ This project is something which helps me in two ways :
 2. It helps me to make a proper schedule for stuff and making sure I dont forget them.
 
 PS : If you're wondering why the title has one more To, go watch Steins;gate!
----
 
 ---
 ### 2. Features to Add
