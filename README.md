@@ -7,9 +7,9 @@
 
 #### Index :
 1. Introduction to Project 
-2. Features to Add (To be updated)
+2. Features to Add
 3. Version History (To be updated)
-4. Notes to Self (To be updated)
+4. Notes to Self
 
 ---
 ### 1. Introduction to Project
