@@ -28,6 +28,15 @@ PS : If you're wondering why the title has one more To, go watch Steins;gate!
 1. Make a list of txt files to display at the startup.
 2. Have an option to disable the software.
 
+---
+### 4. Notes To Self
+
+May 5th, 2018
+Finished the End Sem Exams
+Started learning C# seriously
+
+
+
 
 
 
