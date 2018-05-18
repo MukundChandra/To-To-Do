@@ -32,8 +32,8 @@ PS : If you're wondering why the title has one more To, go watch Steins;gate!
 ### 4. Notes To Self
 
 May 5th, 2018
-Finished the End Sem Exams
-Started learning C# seriously
+1. Finished the End Sem Exams
+2. Started learning C# seriously
 
 
 
