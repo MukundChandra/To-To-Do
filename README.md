@@ -17,7 +17,7 @@
 This is a pet project for me to make a sort of Memo keeping software. It will keep Small Notes,To-Do Lists,Schedule Charts and display them at the startup. I've always lacked the determination to keep track of every commit that I make and I always forget them eventually. 
 
 This project is something which helps me in two ways :
-1. It helps me learn a new language C#.
+1. <del>It helps me learn a new language C#.</del>Helps me in learning general concepts.
 2. It helps me to make a proper schedule for stuff and making sure I dont forget them.
 
 PS : If you're wondering why the title has one more To, go watch Steins;gate!
@@ -31,9 +31,12 @@ PS : If you're wondering why the title has one more To, go watch Steins;gate!
 ---
 ### 4. Notes To Self
 
-May 5th, 2018
+May 18th, 2018
 1. Finished the End Sem Exams
-2. Started learning C# seriously
+2. <del>Started learning seriously</del>
+
+June 11th, 2018
+1. Made a test module for opening multiple files in Python.
 
 
 
