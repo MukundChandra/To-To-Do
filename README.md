@@ -38,6 +38,9 @@ May 18th, 2018
 June 11th, 2018
 1. Made a test module for opening multiple files in Python.
 
+June 12th, 2018 - Dec 25th, 2018
+F**K!!! I forgot that there was this project to be finished!
+
 
 
 
